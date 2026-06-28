@@ -1,0 +1,1 @@
+# diplom-auto-test-yandex
